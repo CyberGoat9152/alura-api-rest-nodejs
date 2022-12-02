@@ -1,0 +1,19 @@
+{
+  "name": "alura-api-rest-node",
+  "version": "1.0.0",
+  "description": "curso sobre dev de API's REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyberGoat9152/alura-api-rest-nodejs.git"
+  },
+  "author": "arthur torres barros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CyberGoat9152/alura-api-rest-nodejs/issues"
+  },
+  "homepage": "https://github.com/CyberGoat9152/alura-api-rest-nodejs#readme"
+}
